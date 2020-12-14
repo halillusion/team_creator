@@ -1,5 +1,5 @@
 <?php
-// defination
+// definition
 $title = 'Takım Oluşturucu v1.0';
 $body = '';
 if (isset($_POST['staff_number']) === false) {
