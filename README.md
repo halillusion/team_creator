@@ -1,11 +1,10 @@
 # PHP Team Creator.
 
-## Requirements
-Only PHP 5.6+ installed server.
-
-## What's The Use
+## What's The Use - Description.
 If you need to create a team in a collective event, it creates a balanced team by automatically distributing it according to the number of people in the team and their points.
 
+## Requirements
+Only PHP 5.6+ installed server.
 
 ## How to work?
 - Step 1: First you have to give the number of people.
